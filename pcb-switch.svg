@@ -82,7 +82,7 @@
        inkscape:label="board"
        style="opacity:1">
       <path
-         style="fill:#338040;fill-opacity:1;stroke:#000000;stroke-width:0.21544448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#338040;fill-opacity:1;stroke:#000000;stroke-width:0.21544448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.5"
          d="m 0,237 h 60 v 22 h -5 v 16 h 5 v 22 L -0.098478,297.02457 0,275 H 5 V 259 H 0 Z"
          id="path4635"
          inkscape:connector-curvature="0"
@@ -98,7 +98,7 @@
          inkscape:connector-curvature="0"
          id="path4658"
          d="m 0,237 h 60 v 22 h -5 v 16 h 5 v 22 L -0.098478,297.02457 0,275 H 5 V 259 H 0 Z"
-         style="display:inline;opacity:1;fill:#338040;fill-opacity:1;stroke:#000000;stroke-width:0.21544448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:#338040;fill-opacity:1;stroke:#000000;stroke-width:0.21544448px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.5" />
     </g>
   </g>
 </svg>
